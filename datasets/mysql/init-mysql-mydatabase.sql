@@ -37,7 +37,9 @@ INSERT INTO customers (id, first_name, country, score) VALUES
     (2, ' John', 'USA', 900),
     (3, 'Georg', 'UK', 750),
     (4, 'Martin', 'Germany', 500),
-    (5, 'Peter', 'USA', 0);
+    (5, 'Peter', 'USA', 0),
+    (6, 'Aulu', 'Russia',900)
+    (7,'sanj','North Kora', 800);
 
 -- ======================================================
 -- Table: orders
